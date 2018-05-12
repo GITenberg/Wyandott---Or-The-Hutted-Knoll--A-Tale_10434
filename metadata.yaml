@@ -1,5 +1,8 @@
 _repo: Wyandott---Or-The-Hutted-Knoll--A-Tale_10434
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -14,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: A tale of the sufferings of an isolated family in upstate New York during
   the Revolution.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10434#Wyandott---Or-The-Hutted-Knoll--A-Tale
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
